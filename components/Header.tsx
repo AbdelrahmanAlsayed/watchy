@@ -5,7 +5,7 @@ import { Menu, X } from "lucide-react";
 
 const Navbar = () => {
   return (
-    <header className=" bg-bgFirst text-textFirst border-b border-b-bgSixth">
+    <header className=" bg-bgFirst text-textFirst ">
       <nav className="container flex justify-between items-center relative py-6">
         <Link
           href="/"
